@@ -7,6 +7,8 @@ This is an userscript software.  After installing, you can press shortcuts in St
 
 ## Install
 
+* https://greasyfork.org/en/scripts/377828-startpage-shortcuts
+
 ## License
 
 See [LICENSE](LICENSE).
